@@ -7,6 +7,7 @@
 **Project title: Classifying neutrinos in a long-baseline neutrino oscillation experiment**
 
 _Language: Python
+
 Libraries: MatPlotLib, TensorFlow, Pandas, Keras
 Models: Convolutional Neural Networks, Multi-Branch CNN_
 
