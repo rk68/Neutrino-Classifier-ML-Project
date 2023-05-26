@@ -1,4 +1,4 @@
-# Neutrino-Classifier-ML-Project
+# Neutrino Event Classification Machine Learning Project
 
 **Final Grade: 91%**
 
