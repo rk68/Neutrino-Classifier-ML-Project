@@ -15,3 +15,5 @@ Adaptations of the MVCNN were applied to regression of neutrino energy (MAE: 6.1
 lepton to neutrino energy ratio (MAE: 0.16), as well as classification of neutrino flavour
 (F1 score: 0.83) and scattering type (F1 score: 0.48).
 
+Full details are available in the attached report.
+
