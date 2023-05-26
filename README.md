@@ -1,15 +1,13 @@
 # Neutrino-Classifier-ML-Project
 
-**Module: PHAS0056 - Practical Machine Learning for Physicists**
-
 **Final Grade: 91%**
 
 **Project title: Classifying neutrinos in a long-baseline neutrino oscillation experiment**
 
-_Language: Python
+_Language: Python_
 
-Libraries: MatPlotLib, TensorFlow, Pandas, Keras
-Models: Convolutional Neural Networks, Multi-Branch CNN_
+_Libraries: MatPlotLib, TensorFlow, Pandas, Keras_
+_Models: Convolutional Neural Networks, Multi-Branch CNN_
 
 Abstract: Accurate identification of neutrino properties (flavour, interaction, scattering
 type etc.) is crucial to the study of neutrino oscillations in the NoVA experiment. This
