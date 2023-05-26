@@ -1,5 +1,8 @@
 # Neutrino-Classifier-ML-Project
 
+Module: PHAS0056 - Practical Machine Learning for Physicists
+Final Grade: 91%
+
 Project title: Classifying neutrinos in a long-baseline neutrino oscillation experiment
 
 Language: Python
